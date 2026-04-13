@@ -86,7 +86,7 @@
 }
 
 * {
-  cursor: url('/images/amiga-pointer.cur'), auto !important;
+  cursor: url('/assets/img/amiga-pointer.cur'), auto !important;
 }
 
 @media (prefers-reduced-motion: no-preference) {
